@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-image {
+  background-image: url("../public/Bigwing/hero-bg.png");
+  background-size: cover;
+}
